@@ -8,7 +8,7 @@ namespace api.DTOs
 {
     public class BreedCreation
     {
-        public int BreedId { get; set; }
+        // public int BreedId { get; set; }
         public string Name { get; set; }
         public string Size { get; set; }
         public int Friendliness { get; set; }

@@ -59,3 +59,13 @@ C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\obj\Debug\net5.0\api.dll
 C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\obj\Debug\net5.0\ref\api.dll
 C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\obj\Debug\net5.0\api.pdb
 C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\obj\Debug\net5.0\api.genruntimeconfig.cache
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\Bogus.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ciO\Desktop\APPLAB\DotnetProjects\DogApp\api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

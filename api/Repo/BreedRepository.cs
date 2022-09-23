@@ -77,8 +77,9 @@ namespace api.Repo
         public async Task<Breed> UpdateBreed(BreedUpdate model)
         {
             
-            var data = await dataContext.Breeds.FirstOrDefaultAsync(x => x.Name == model.Name);
+            var data = await dataContext.Breeds.FirstOrDefaultAsync(x => x.BreedId == model.BreedId);
             if(data == null)
+
             {
                 return null;
             }

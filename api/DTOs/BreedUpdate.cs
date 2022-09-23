@@ -7,6 +7,7 @@ namespace api.DTOs
 {
     public class BreedUpdate
     {
+        public int BreedId { get; set; }
         public string Name { get; set; }
         public string Size { get; set; }
         public int Friendliness { get; set; }
